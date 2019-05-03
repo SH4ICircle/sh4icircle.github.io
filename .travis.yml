@@ -19,7 +19,7 @@ script:
   - hexo clean
   - hexo generate
 
-depoly:
+deploy:
   provider: pages
   skip_cleanup: true
   local_dir: public
