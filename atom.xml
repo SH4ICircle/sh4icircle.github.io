@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sh.4ic.moe/"/>
-  <updated>2019-05-04T10:34:10.926Z</updated>
+  <updated>2019-05-04T14:42:33.622Z</updated>
   <id>https://sh.4ic.moe/</id>
   
   <author>
@@ -20,17 +20,14 @@
     <title>Hello World</title>
     <link href="https://sh.4ic.moe/2019/05/hello-world/"/>
     <id>https://sh.4ic.moe/2019/05/hello-world/</id>
-    <published>2019-05-04T10:34:10.926Z</published>
-    <updated>2019-05-04T10:34:10.926Z</updated>
+    <published>2019-05-04T14:42:33.622Z</published>
+    <updated>2019-05-04T14:42:33.622Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h1 id="开始了，"><a href="#开始了，" class="headerlink" title="开始了，"></a>开始了，</h1><p>啊，在git上敲了一下午的命令，总算是正式部署好这个博客了。</p><p>虽然之前弄过不少次博客，但是大多数都是Wordpress，hexo和git也是头一回使用,这中间踩了不少的坑</p><p>这个博客可能会很少写东西，主要的用途是当作我的名片使用。  </p><p>说不定也会写点什么，不过就不要对我写的内容抱有什么太大的期望了,也许会在这里发发牢骚什么的:P</p><p>对markdown语法还是不大熟呢……</p><p>那么就这样吧，关于我的信息可以去<a href="https://sh.4ic.moe/about">关于（正在撰写）</a>页面查看。</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h1 id="开始了，"><a href="#开始了，" class="headerlink" title="开始了，"></a>开始了，</h1><hr><p>啊，在git上敲了一下午的命令，总算是正式部署好这个博客了。</p><p>虽然之前弄过不少次博客，但是大多数都是Wordpress，hexo和git也是头一回使用,这中间踩了不少的坑</p><p>这个博客可能会很少写东西，主要的用途是当作我的名片使用。  </p><p>说不定也会写点什么，不过就不要对我写的内容抱有什么太大的期望了,也许会在这里发发牢骚什么的:P</p><p>对markdown语法还是不大熟呢……</p><p>那么就这样吧，关于我的信息可以去<a href="https://sh.4ic.moe/about">关于（正在撰写）</a>页面查看。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
     
     </summary>
     
